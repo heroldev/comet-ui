@@ -3,6 +3,9 @@
   "displayName": "comet-ui",
   "description": "A stellar color theme designed to help you conquer the stars.",
   "version": "1.0.0",
+  "repository": "https://github.com/heroldev/comet-ui",
+  "publisher": "heroldev",
+  "contributors": ["g3offrey, heroldev"],
   "engines": {
     "vscode": "^1.78.0"
   },
