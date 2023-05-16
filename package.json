@@ -6,6 +6,7 @@
   "repository": "https://github.com/heroldev/comet-ui",
   "publisher": "heroldev",
   "contributors": ["g3offrey, heroldev"],
+  "icon": "https://github.com/heroldev/comet-ui/blob/main/comet_icon.png",
   "engines": {
     "vscode": "^1.78.0"
   },
