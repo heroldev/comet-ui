@@ -1,0 +1,21 @@
+{
+  "name": "comet-ui",
+  "displayName": "comet-ui",
+  "description": "A stellar color theme designed to help you conquer the stars.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Comet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/comet-color-theme.json"
+      }
+    ]
+  }
+}
